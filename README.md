@@ -47,6 +47,7 @@ Se você chegou até aqui, talvez já tenha percebido:
 
 ## 📁 Estrutura do projeto
 
+```
 arquivo-lirio/
 │
 ├── index.html
@@ -60,10 +61,10 @@ arquivo-lirio/
 ├── script.js
 │
 └── assets/
-├── lirio.png
-├── ruido.mp3
-└── arquivo.zip
-
+    ├── lirio.png
+    ├── ruido.mp3
+    └── arquivo.zip
+```
 ---
 
 ## ⚠️ Aviso
